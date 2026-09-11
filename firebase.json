@@ -7,12 +7,6 @@
       "**/node_modules/**",
       "mobile-app/**"
     ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ],
     "headers": [
       {
         "source": "**",
